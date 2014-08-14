@@ -1,0 +1,23 @@
+{
+    "name": "generators-adventure",
+    "version": "0.0.0",
+    "description": "Exposure to generators in node",
+    "bin": {
+        "generators-adventure": "generators-adventure.sh",
+        "generators-adventure.js": "generators-adventure.js"
+    },
+    "scripts": {},
+    "keywords": [
+        "workshopper",
+        "tutorial",
+        "lesson"
+    ],
+    "author": "Andrew Crites <ajcrites@gmail.com> (http://github.com/ajcrites)",
+    "contributors": [
+        "Tim Oxley"
+    ],
+    "dependencies": {
+        "workshopper": "~0.7.2",
+        "lorem-ipsum": "~0.1.1"
+    }
+}
